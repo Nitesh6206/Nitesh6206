@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20Nitesh's%20World!&animation=fadeIn&type=waving&color=gradient&height=120&section=header"/>
-</p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/109360824?v=4" alt="Nitesh Kumar" width="150" style="border-radius: 50%; border: 3px solid #6DB33F;">
-</p>
-
 <h1 align="center">👋 Hey, I'm Nitesh Kumar!</h1>
 <h3 align="center">🚀 Passionate Software Engineer | Full-Stack Developer | Problem Solver</h3>
 
