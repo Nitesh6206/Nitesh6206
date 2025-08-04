@@ -17,6 +17,9 @@
   <a href="https://leetcode.com/u/niteshsingh6206/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
+  <a href="https://www.geeksforgeeks.org/user/niteshsimeew/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
   <a href="mailto:niteshsingh6206@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -100,7 +103,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats & LeetCode Progress</h2>
+<h2 align="center">📊 GitHub Stats & Problem Solving</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nitesh6206&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
@@ -108,6 +111,7 @@
 </p>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/niteshsingh6206?theme=dark" alt="LeetCode Stats">
+  <img src="https://gfgstatscard.vercel.app/niteshsimeew" alt="GeeksforGeeks Stats">
 </p>
 
 ---
@@ -119,6 +123,7 @@
   <a href="https://nitesh-kumar-singh-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/nitesh-kumar-67970125b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://leetcode.com/u/niteshsingh6206/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.geeksforgeeks.org/user/niteshsimeew/"><img src="https://img.shields.io/badge/GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
 </p>
 
 ---
