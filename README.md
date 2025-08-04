@@ -99,19 +99,3 @@
 
 
 ---
-
-<h2 align="center">Connect with Me 👋</h2>
-
-<p align="center">
-  <a href="mailto:niteshsingh6206@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://nitesh-kumar-singh-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/nitesh-kumar-67970125b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/niteshsingh6206/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://www.geeksforgeeks.org/user/niteshsimeew/"><img src="https://img.shields.io/badge/GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=32"/>
-</p>
