@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh6206/Nitesh6206/main/assets/wave.gif" width="40px"> Hey there, I'm Nitesh Kumar!
+  <img src="https://raw.githubusercontent.com/Nitesh6206/Nitesh6206/main/assets/wave.gif" width="40px"> Hey there, I'm Nitesh Kumar! <img src="https://raw.githubusercontent.com/Nitesh6206/Nitesh6206/main/assets/typing.gif" width="40px">
 </h1>
 <h3 align="center">Full-Stack Developer | Software Engineer | Lifelong Learner</h3>
 
@@ -27,7 +27,7 @@
 <h2 align="center">About Me 🚀</h2>
 
 <p align="center">
-  [cite_start]<img src="https://media.giphy.com/media/qgM9Tj0k66v2k/giphy.gif" width="40" alt="Coding GIF"> I am a dedicated **Full-Stack Software Engineer** with a strong foundation in building scalable and secure applications[cite: 8]. [cite_start]I specialize in Java and Python, leveraging frameworks like **Spring Boot** and **Django** to create robust backend solutions[cite: 4, 5]. [cite_start]My experience includes contributing to full-stack development in a fast-paced startup, where I developed features that improved customer engagement and enhanced product tracking for stakeholders[cite: 14, 15, 16].
+  <img src="https://media.giphy.com/media/qgM9Tj0k66v2k/giphy.gif" width="40" alt="Coding GIF"> I am a dedicated **Full-Stack Software Engineer** with a strong foundation in building scalable and secure applications[cite: 8]. [cite_start]I specialize in Java and Python, leveraging frameworks like **Spring Boot** and **Django** to create robust backend solutions[cite: 4, 5]. [cite_start]My experience includes contributing to full-stack development in a fast-paced startup, where I developed features that improved customer engagement and enhanced product tracking for stakeholders[cite: 14, 15, 16].
 </p>
 <p align="center">
   [cite_start]💡 I have a passion for creating impactful solutions, as demonstrated by my work on projects like **PulseFit**, an AI-powered fitness platform with a real-time booking system and personalized workout plans[cite: 27, 28]. [cite_start]I am also skilled in building platforms with secure, role-based access using technologies like **JWT and Spring Security**[cite: 33]. My goal is to build efficient software that solves real-world problems.
@@ -63,9 +63,17 @@
 </p>
 
 ---
+<div align="center">
+  <a href="https://github.com/Nitesh6206">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitesh6206&theme=tokyo_night" alt="Nitesh Kumar's GitHub Profile Summary" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Nitesh6206&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophy" />
+  </a>
+</div>
+
+---
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh6206/Nitesh6206/main/assets/typing.gif" width="40px"> Connect with me! <img src="https://github-profile-trophy.vercel.app/?username=Nitesh6206&theme=radical&no-frame=true&no-bg=true" width="100px" alt="GitHub Trophy">
+  Connect with me!
 </h3>
 
 <p align="center">
