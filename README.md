@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Nitesh Kumar!</h1>
 <h3 align="center">Full-Stack Developer | Software Engineer | Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c2N3hjbzJpMnQ3c2lqcnQ3eXN5c2s4cGJ4c2o1OW14Z2V0Zm94cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding GIF">
-</p>
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nitesh-kumar-67970125b/" target="_blank">
@@ -101,18 +96,7 @@
   </tbody>
 </table>
 
----
 
-<h2 align="center">📊 GitHub Stats & Problem Solving</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh6206&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh6206&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="400"/>
-</p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/niteshsingh6206?theme=dark" alt="LeetCode Stats">
-  <img src="https://gfgstatscard.vercel.app/niteshsimeew" alt="GeeksforGeeks Stats">
-</p>
 
 ---
 
