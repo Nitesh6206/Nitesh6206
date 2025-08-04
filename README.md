@@ -1,8 +1,14 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Nitesh6206/Nitesh6206/main/assets/wave.gif" width="40px"> Hey there, I'm Nitesh Kumar!
 </h1>
-<h3 align="center">Full-Stack Developer | Software Engineer | Lifelong Learner</h3>
 
+<h3 align="center">🚀 Full-Stack Developer | Software Engineer | Lifelong Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;Java+%7C+React+%7C+SpringBoot+%7C+Django;Love+for+Clean+Code+and+Architecture;Building+Tech+with+Purpose+%26+Passion" alt="Typing SVG" />
+</p>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nitesh-kumar-67970125b/" target="_blank">
@@ -18,56 +24,87 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
   <a href="mailto:niteshsingh6206@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-<h2 align="center">About Me 🚀</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgM9Tj0k66v2k/giphy.gif" width="40" alt="Coding GIF"> I am a passionate and dedicated **full-stack software engineer** with a strong focus on building scalable, user-centric applications. My expertise lies in crafting secure and efficient platforms that solve real-world problems.
-</p>
-<p align="center">
-  💡 My journey is fueled by a deep curiosity for technologies like **microservices** and a personal passion for **fitness tech**. I thrive on creating robust solutions and am always eager to learn new technologies and contribute to impactful projects.
-</p>
-<p align="center">
-  🌱 When I'm not coding, you can find me tackling competitive programming challenges or exploring innovative ways to turn a good cup of coffee into great code.
+  <img src="https://media.giphy.com/media/qgM9Tj0k66v2k/giphy.gif" width="270px" alt="Coding GIF">
 </p>
 
----
-
-<h2 align="center">Languages and Toolkits 🛠️</h2>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,redux,py,django,ts,mysql,mongodb,docker,git,npm,postman,tailwind" />
+  I'm a passionate <b>Full-Stack Developer</b> based in India 🇮🇳, specializing in building robust and scalable web applications using Java, Spring Boot, React, and Django.
+</p>
+<p align="center">
+  💡 I love exploring microservices architecture, cloud deployment, and performance optimization. My side interests include fitness tech, backend optimization, and solving real-world challenges.
+</p>
+<p align="center">
+  🔁 I actively participate in DSA, enjoy system design, and believe in continuous learning. Whether it’s a bug fix or an end-to-end solution — I love it all.
 </p>
 
 ---
 
-<h2 align="center">🏆 My Projects</h2>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,redux,py,django,mysql,mongodb,docker,postman,git,github,tailwind,npm,vscode" />
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
 <p align="center">
   <a href="https://github.com/Nitesh6206/Crowd-Source-Issues-Tracker" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitesh6206&repo=Crowd-Source-Issues-Tracker&theme=tokyonight&bg_color=1F222E" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitesh6206&repo=Crowd-Source-Issues-Tracker&theme=tokyonight&bg_color=0d1117&border_color=30363d" />
   </a>
   <a href="https://github.com/Nitesh6206/BookVerse-Secure-Online-Bookstore" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitesh6206&repo=BookVerse-Secure-Online-Bookstore&theme=tokyonight&bg_color=1F222E" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitesh6206&repo=BookVerse-Secure-Online-Bookstore&theme=tokyonight&bg_color=0d1117&border_color=30363d" />
   </a>
   <a href="https://github.com/Nitesh6206/PulseFit-Fitness-App-Backend" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitesh6206&repo=PulseFit-Fitness-App-Backend&theme=tokyonight&bg_color=1F222E" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitesh6206&repo=PulseFit-Fitness-App-Backend&theme=tokyonight&bg_color=0d1117&border_color=30363d" />
   </a>
   <a href="https://github.com/Nitesh6206/Emergency-Alert-System-Microservices" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitesh6206&repo=Emergency-Alert-System-Microservices&theme=tokyonight&bg_color=1F222E" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitesh6206&repo=Emergency-Alert-System-Microservices&theme=tokyonight&bg_color=0d1117&border_color=30363d" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh6206/Nitesh6206/main/assets/typing.gif" width="40px"> Connect with me! <img src="https://github-profile-trophy.vercel.app/?username=Nitesh6206&theme=radical&no-frame=true&no-bg=true" width="100px" alt="GitHub Trophy">
-</h3>
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  I'm always open to new opportunities and collaborations. Feel free to connect with me on <a href="https://www.linkedin.com/in/nitesh-kumar-67970125b/">LinkedIn</a> or explore my portfolio.
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh6206&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh6206&theme=tokyonight&background=0d1117&border=30363d" alt="Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitesh6206&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nitesh6206&theme=radical&no-frame=true&margin-w=15&row=1" />
+</p>
+
+---
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm always open to new opportunities and exciting collaborations. Let’s build something amazing together!
+</p>
+
+<p align="center">
+  <a href="mailto:niteshsingh6206@gmail.com">
+    <img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
