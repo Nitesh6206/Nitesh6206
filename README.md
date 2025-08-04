@@ -27,7 +27,7 @@
 <h2 align="center">About Me 🚀</h2>
 
 <p align="center">
-  👨‍💻 I am a passionate and dedicated **full-stack software engineer** with a strong focus on building scalable, user-centric applications. My expertise lies in crafting secure and efficient platforms that solve real-world problems.
+  <img src="https://media.giphy.com/media/qgM9Tj0k66v2k/giphy.gif" width="40" alt="Coding GIF"> I am a passionate and dedicated **full-stack software engineer** with a strong focus on building scalable, user-centric applications. My expertise lies in crafting secure and efficient platforms that solve real-world problems.
 </p>
 <p align="center">
   💡 My journey is fueled by a deep curiosity for technologies like **microservices** and a personal passion for **fitness tech**. I thrive on creating robust solutions and am always eager to learn new technologies and contribute to impactful projects.
@@ -38,7 +38,7 @@
 
 ---
 
-<h2 align="center">Languages and  Toolkits 🛠️</h2>
+<h2 align="center">Languages and Toolkits 🛠️</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,redux,py,django,ts,mysql,mongodb,docker,git,npm,postman,tailwind" />
@@ -65,8 +65,7 @@
 ---
 
 <h3 align="center">
-  Connect with me!
-  <img src="https://raw.githubusercontent.com/Nitesh6206/Nitesh6206/main/assets/typing.gif" width="40px">
+  <img src="https://raw.githubusercontent.com/Nitesh6206/Nitesh6206/main/assets/typing.gif" width="40px"> Connect with me! <img src="https://github-profile-trophy.vercel.app/?username=Nitesh6206&theme=radical&no-frame=true&no-bg=true" width="100px" alt="GitHub Trophy">
 </h3>
 
 <p align="center">
