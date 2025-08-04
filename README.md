@@ -32,9 +32,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgM9Tj0k66v2k/giphy.gif" width="270px" alt="Coding GIF">
-</p>
+
 
 <p align="center">
   I'm a passionate <b>Full-Stack Developer</b> based in India 🇮🇳, specializing in building robust and scalable web applications using Java, Spring Boot, React, and Django.
@@ -73,13 +71,7 @@
   </a>
 </p>
 
----
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nitesh6206&theme=radical&no-frame=true&margin-w=15&row=1" />
-</p>
 
 ---
 
