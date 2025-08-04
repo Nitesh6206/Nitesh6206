@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/109360824?v=4" alt="Nitesh Kumar" width="150" style="border-radius: 50%;">
-</p>
 
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
