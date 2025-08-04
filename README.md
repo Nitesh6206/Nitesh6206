@@ -27,13 +27,13 @@
 <h2 align="center">About Me 🚀</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgM9Tj0k66v2k/giphy.gif" width="40" alt="Coding GIF"> I am a passionate and dedicated **full-stack software engineer** with a strong focus on building scalable, user-centric applications. My expertise lies in crafting secure and efficient platforms that solve real-world problems.
+  [cite_start]<img src="https://media.giphy.com/media/qgM9Tj0k66v2k/giphy.gif" width="40" alt="Coding GIF"> I am a dedicated **Full-Stack Software Engineer** with a strong foundation in building scalable and secure applications[cite: 8]. [cite_start]I specialize in Java and Python, leveraging frameworks like **Spring Boot** and **Django** to create robust backend solutions[cite: 4, 5]. [cite_start]My experience includes contributing to full-stack development in a fast-paced startup, where I developed features that improved customer engagement and enhanced product tracking for stakeholders[cite: 14, 15, 16].
 </p>
 <p align="center">
-  💡 My journey is fueled by a deep curiosity for technologies like **microservices** and a personal passion for **fitness tech**. I thrive on creating robust solutions and am always eager to learn new technologies and contribute to impactful projects.
+  [cite_start]💡 I have a passion for creating impactful solutions, as demonstrated by my work on projects like **PulseFit**, an AI-powered fitness platform with a real-time booking system and personalized workout plans[cite: 27, 28]. [cite_start]I am also skilled in building platforms with secure, role-based access using technologies like **JWT and Spring Security**[cite: 33]. My goal is to build efficient software that solves real-world problems.
 </p>
 <p align="center">
-  🌱 When I'm not coding, you can find me tackling competitive programming challenges or exploring innovative ways to turn a good cup of coffee into great code.
+  [cite_start]🌱 I'm a continuous learner, constantly improving my skills by solving over **300+ DSA problems on LeetCode and GeeksforGeeks**[cite: 39]. I am always eager to take on new challenges and collaborate on innovative projects.
 </p>
 
 ---
