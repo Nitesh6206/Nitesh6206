@@ -63,6 +63,10 @@
 </p>
 
 ---
+### 🏆 LeetCode Stats
+<p align="center"> <a href="https://leetcode.com/u/niteshsingh6206/"> <img src="https://leetcard.jacoblin.cool/niteshsingh6206?ext=contest" alt="LeetCode Stats"> </a> </p>
+
+---
 
 ### 📊 GitHub Stats & Achievements
 <p align="center">
@@ -87,11 +91,6 @@
 
 ---
 
-### ✍️ Blogs
-| [Coming Soon](https://your-blog-link.com) | [Coming Soon](https://your-blog-link.com) | [Coming Soon](https://your-blog-link.com) |
-> 📝 *I’m working on sharing my knowledge through blogs. Stay tuned for posts on full-stack development and microservices!*
-
----
 
 ### 📬 Connect with Me
 <p align="center">
