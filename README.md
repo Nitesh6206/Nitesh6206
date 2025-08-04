@@ -1,68 +1,113 @@
 <h1 align="center">👋 Hey there, I'm Nitesh Kumar!</h1>
 <h3 align="center">Full-Stack Developer | Software Engineer | Lifelong Learner</h3>
 
-
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/nitesh-kumar-67970125b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="32" style="margin: 0 10px;">
   </a>
   <a href="https://nitesh-kumar-singh-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
+    <img src="https://img.icons8.com/ios-filled/48/000000/portfolio.png" alt="Portfolio" width="32" style="margin: 0 10px;">
   </a>
   <a href="https://leetcode.com/u/niteshsingh6206/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" width="32" style="margin: 0 10px;">
   </a>
   <a href="https://www.geeksforgeeks.org/user/niteshsimeew/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+    <img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" alt="GeeksforGeeks" width="32" style="margin: 0 10px;">
   </a>
   <a href="mailto:niteshsingh6206@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="32" style="margin: 0 10px;">
   </a>
-</p>
+</div>
 
----
+<hr>
 
-<h2 align="center">About Me 🚀</h2>
-
+<h2 align="center">🚀 About Me</h2>
 <p align="center">
-  👨‍💻 I'm a passionate **Software Engineer** with a strong foundation in **full-stack development**. I specialize in building scalable, user-focused applications that solve real-world problems.
-</p>
-<p align="center">
-  💡 My journey is fueled by a curiosity for **microservices**, a passion for **fitness tech**, and a commitment to crafting secure and efficient platforms. I'm always eager to learn new technologies and contribute to meaningful projects.
+  I’m a dedicated <strong>Software Engineer</strong> with a passion for crafting scalable, user-centric applications that address real-world challenges. My expertise lies in <strong>full-stack development</strong>, with a focus on building robust systems using modern technologies.
 </p>
 <p align="center">
-  🌱 When I'm not coding, you can find me tackling LeetCode challenges or exploring new ways to turn coffee into code.
+  💡 I’m driven by a curiosity for <strong>microservices</strong>, a passion for <strong>fitness tech</strong>, and a commitment to creating secure, efficient platforms.
 </p>
-
----
-
-<h2 align="center">My Technical Toolkit 🛠️</h2>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  🌱 I’m constantly learning, whether it’s mastering new frameworks, solving complex problems on LeetCode, or transforming coffee into clean code.
+</p>
+<p align="center">
+  🎯 My goal is to contribute to innovative projects that make a meaningful impact.
 </p>
 
----
+<hr>
 
-<h2 align="center">🏆 My Projects</h2>
+<h2 align="center">🛠️ My Technical Toolkit</h2>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 15px; max-width: 800px; margin: 0 auto;">
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40">
+    <p>Java</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40">
+    <p>Spring Boot</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40">
+    <p>JavaScript</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" alt="React" width="40">
+    <p>React</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="40">
+    <p>Redux</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40">
+    <p>Python</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="40">
+    <p>Django</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40">
+    <p>TypeScript</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40">
+    <p>MySQL</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40">
+    <p>MongoDB</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40">
+    <p>Docker</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40">
+    <p>Git</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" width="40">
+    <p>npm</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman" width="40">
+    <p>Postman</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" width="40">
+    <p>Tailwind CSS</p>
+  </div>
+</div>
+
+<hr>
+
+<h2 align="center">🏆 Featured Projects</h2>
 <table align="center">
   <thead>
     <tr>
-      <th>Name</th>
+      <th>Project</th>
       <th>Description</th>
       <th>Technologies</th>
     </tr>
@@ -75,7 +120,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/Nitesh6206/BookVerse-Secure-Online-Bookstore">BookVerse-Secure-Online-Bookstore</a></td>
-      <td>A secure e-commerce platform for Browse and purchasing books with payment integration.</td>
+      <td>A secure e-commerce platform for browsing and purchasing books with payment integration.</td>
       <td>Java, Spring Boot, MySQL, React</td>
     </tr>
     <tr>
@@ -96,6 +141,16 @@
   </tbody>
 </table>
 
+<hr>
 
+<h2 align="center">📈 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh6206&show_icons=true&theme=radical" alt="Nitesh's GitHub Stats" style="margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh6206&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;">
+</div>
 
----
+<hr>
+
+<div align="center">
+  <p>Let's connect and build something amazing together! 🚀</p>
+</div>
