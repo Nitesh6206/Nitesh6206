@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Full-Stack Developer | Software Engineer | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;Java+%7C+React+%7C+SpringBoot+%7C+Django;Love+for+Clean+Code+and+Architecture;Building+Tech+with+Purpose+%26+Passion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Welcome+to+my+GitHub!;Java+%7C+SpringBoot+%7C+Django+%7C+React;Building+Robust+%26+Scalable+Web+Apps;Passionate+about+Clean+Code+and+Architecture" alt="Typing SVG" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,redux,py,django,mysql,mongodb,docker,postman,git,github,tailwind,npm,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,redux,python,django,mysql,mongodb,docker,postman,git,github,tailwind,vscode,npm" />
 </p>
 
 ---
@@ -71,20 +71,6 @@
   <a href="https://github.com/Nitesh6206/Emergency-Alert-System-Microservices" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitesh6206&repo=Emergency-Alert-System-Microservices&theme=tokyonight&bg_color=0d1117&border_color=30363d" />
   </a>
-</p>
-
----
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh6206&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh6206&theme=tokyonight&background=0d1117&border=30363d" alt="Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitesh6206&theme=tokyonight" />
 </p>
 
 ---
