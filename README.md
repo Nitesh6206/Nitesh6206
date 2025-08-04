@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Hey+there,+I'm+Nitesh Kumar!; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Hey+there,+I'm+Nitesh+Kumar!" alt="Typing SVG" />
 </p>
+
 
 ---
 
