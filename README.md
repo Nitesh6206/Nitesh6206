@@ -1,16 +1,44 @@
+<h1 align="center">
+  👋 Hey there, I'm Nitesh Kumar!
+</h1>
+<h3 align="center">Full-Stack Developer | Software Engineer | Lifelong Learner</h3>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nitesh-kumar-67970125b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://nitesh-kumar-singh-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://leetcode.com/u/niteshsingh6206/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/niteshsimeew/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
+  <a href="mailto:niteshsingh6206@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
 ---
-### About Me
 
-I'm a passionate **full-stack developer** specializing in building scalable, user-focused applications. My journey is fueled by a curiosity for **microservices**, a passion for **fitness tech**, and a commitment to crafting secure and efficient platforms.
+<h2 align="center">About Me 🚀</h2>
 
-* **Key Skills**: Java, Spring Boot, React, Python, Django, Docker
-* **Interests**: Microservices, fitness tech, system design, and continuous learning.
-
-When I'm not coding, you can find me tackling LeetCode challenges or exploring new ways to turn coffee into code.
+<p align="center">
+  👨‍💻 I'm a passionate and dedicated **full-stack software engineer** specializing in building scalable, user-focused applications that solve real-world problems.
+</p>
+<p align="center">
+  💡 My journey is fueled by a curiosity for **microservices**, a passion for **fitness tech**, and a commitment to crafting secure and efficient platforms. I'm always eager to learn new technologies and contribute to meaningful projects.
+</p>
+<p align="center">
+  🌱 When I'm not coding, you can find me tackling LeetCode challenges or exploring new ways to turn coffee into code.
+</p>
 
 ---
 
-### My Technical Toolkit 🛠️
+<h2 align="center">My Technical Toolkit 🛠️</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -32,19 +60,44 @@ When I'm not coding, you can find me tackling LeetCode challenges or exploring n
 
 ---
 
-### 🏆 Featured Projects
+<h2 align="center">🏆 My Projects</h2>
+<table align="center">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Nitesh6206/Crowd-Source-Issues-Tracker">Crowd-Source-Issues-Tracker</a></td>
+      <td>A collaborative platform for real-time issue tracking and management, enabling seamless team communication and project oversight.</td>
+      <td>Java, Spring Boot, MySQL</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Nitesh6206/BookVerse-Secure-Online-Bookstore">BookVerse-Secure-Online-Bookstore</a></td>
+      <td>A secure e-commerce platform for purchasing books, featuring robust user authentication and integrated payment processing for a seamless shopping experience.</td>
+      <td>Java, Spring Boot, MySQL, React</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Nitesh6206/PulseFit-Fitness-App-Backend">PulseFit-Fitness-App-Backend</a></td>
+      <td>RESTful backend for a fitness app to track workouts, nutrition, and user progress, providing a robust foundation for a health-focused application.</td>
+      <td>Python, Django, MySQL</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Nitesh6206/Emergency-Alert-System-Microservices">Emergency-Alert-System-Microservices</a></td>
+      <td>A microservices-based system for real-time emergency alerts and user management, built for high availability and scalability.</td>
+      <td>JavaScript, Node.js, MongoDB, Docker</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Nitesh6206/PulseFit-Fitness-App-Frontend">PulseFit-Fitness-App-Frontend</a></td>
+      <td>A responsive frontend for a fitness app with user-friendly dashboards for tracking and visualizing personal health and fitness goals.</td>
+      <td>JavaScript, React, Tailwind CSS, Redux</td>
+    </tr>
+  </tbody>
+</table>
 
-* **Crowd-Source-Issues-Tracker**
-    * A collaborative platform for tracking and managing project issues with real-time updates.
-    * **Technologies:** Java, Spring Boot, MySQL
-    * [Explore the project](https://github.com/Nitesh6206/Crowd-Source-Issues-Tracker)
+---
 
-* **BookVerse-Secure-Online-Bookstore**
-    * A secure e-commerce platform for Browse and purchasing books with integrated payments.
-    * **Technologies:** Java, Spring Boot, MySQL, React
-    * [Explore the project](https://github.com/Nitesh6206/BookVerse-Secure-Online-Bookstore)
-
-* **PulseFit-Fitness-App-Backend**
-    * A RESTful backend for a fitness app to track workouts, nutrition, and user progress.
-    * **Technologies:** Python, Django, MySQL
-    * [Explore the project](https://github.com/Nitesh6206/PulseFit-Fitness-App-Backend)
+<h3 align="center">Feel free to connect with me on <a href="https://www.linkedin.com/in/nitesh-kumar-67970125b/">LinkedIn</a> or explore my other projects. Let's build something amazing together!</h3>
