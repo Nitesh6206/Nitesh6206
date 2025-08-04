@@ -38,7 +38,7 @@
 
 ---
 
-<h2 align="center">My Technical Toolkit 🛠️</h2>
+<h2 align="center">Languages and  Toolkits 🛠️</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,redux,py,django,ts,mysql,mongodb,docker,git,npm,postman,tailwind" />
