@@ -2,10 +2,8 @@
   <img src="https://raw.githubusercontent.com/Nitesh6206/Nitesh6206/main/assets/wave.gif" width="40px"> Hey there, I'm Nitesh Kumar!
 </h1>
 
-<h3 align="center">🚀 Full-Stack Developer | Software Engineer | Lifelong Learner</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Welcome+to+my+GitHub!;Java+%7C+Spring+Boot+%7C+Django+%7C+React+Dev;Building+Robust+and+Scalable+Web+Apps;Passionate+about+Clean+Code+and+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Hey+there,+I'm+Nitesh Kumar!; alt="Typing SVG" />
 </p>
 
 ---
