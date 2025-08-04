@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hey there, I'm Nitesh Kumar!
+  <img src="https://media.giphy.com/media/hvRJkH4Sj7PzC/giphy.gif" width="30"> Hey there, I'm Nitesh Kumar! <img src="https://media.giphy.com/media/hvRJkH4Sj7PzC/giphy.gif" width="30">
 </h1>
 <h3 align="center">Full-Stack Developer | Software Engineer | Lifelong Learner</h3>
 
@@ -61,43 +61,27 @@
 ---
 
 <h2 align="center">🏆 My Projects</h2>
-<table align="center">
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Description</th>
-      <th>Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Nitesh6206/Crowd-Source-Issues-Tracker">Crowd-Source-Issues-Tracker</a></td>
-      <td>A collaborative platform for real-time issue tracking and management, enabling seamless team communication and project oversight.</td>
-      <td>Java, Spring Boot, MySQL</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Nitesh6206/BookVerse-Secure-Online-Bookstore">BookVerse-Secure-Online-Bookstore</a></td>
-      <td>A secure e-commerce platform for purchasing books, featuring robust user authentication and integrated payment processing for a seamless shopping experience.</td>
-      <td>Java, Spring Boot, MySQL, React</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Nitesh6206/PulseFit-Fitness-App-Backend">PulseFit-Fitness-App-Backend</a></td>
-      <td>RESTful backend for a fitness app to track workouts, nutrition, and user progress, providing a robust foundation for a health-focused application.</td>
-      <td>Python, Django, MySQL</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Nitesh6206/Emergency-Alert-System-Microservices">Emergency-Alert-System-Microservices</a></td>
-      <td>A microservices-based system for real-time emergency alerts and user management, built for high availability and scalability.</td>
-      <td>JavaScript, Node.js, MongoDB, Docker</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Nitesh6206/PulseFit-Fitness-App-Frontend">PulseFit-Fitness-App-Frontend</a></td>
-      <td>A responsive frontend for a fitness app with user-friendly dashboards for tracking and visualizing personal health and fitness goals.</td>
-      <td>JavaScript, React, Tailwind CSS, Redux</td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <a href="https://github.com/Nitesh6206/Crowd-Source-Issues-Tracker" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitesh6206&repo=Crowd-Source-Issues-Tracker&theme=tokyonight" alt="Crowd-Source-Issues-Tracker" />
+  </a>
+  <a href="https://github.com/Nitesh6206/BookVerse-Secure-Online-Bookstore" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitesh6206&repo=BookVerse-Secure-Online-Bookstore&theme=tokyonight" alt="BookVerse-Secure-Online-Bookstore" />
+  </a>
+  <a href="https://github.com/Nitesh6206/PulseFit-Fitness-App-Backend" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitesh6206&repo=PulseFit-Fitness-App-Backend&theme=tokyonight" alt="PulseFit-Fitness-App-Backend" />
+  </a>
+  <a href="https://github.com/Nitesh6206/Emergency-Alert-System-Microservices" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitesh6206&repo=Emergency-Alert-System-Microservices&theme=tokyonight" alt="Emergency-Alert-System-Microservices" />
+  </a>
+</p>
 
 ---
 
-<h3 align="center">Feel free to connect with me on <a href="https://www.linkedin.com/in/nitesh-kumar-67970125b/">LinkedIn</a> or explore my other projects. Let's build something amazing together!</h3>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWa5U2guw/giphy.gif" width="60"> Connect with me! <img src="https://media.giphy.com/media/LnQjpWa5U2guw/giphy.gif" width="60">
+</h3>
+
+<p align="center">
+  Feel free to connect with me on <a href="https://www.linkedin.com/in/nitesh-kumar-67970125b/">LinkedIn</a> or explore my other projects. Let's build something amazing together!
+</p>
