@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh6206/Nitesh6206/main/assets/wave.gif" width="40px"> Hey there, I'm Nitesh Kumar!
-</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A600&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Nitesh+Kumar!" alt="Typing SVG" />
